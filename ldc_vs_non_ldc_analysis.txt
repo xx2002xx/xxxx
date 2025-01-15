@@ -1,0 +1,3 @@
+T-Test Results for Civil Liberties (LDC vs Non-LDC):
+T-Statistic: 24.49248959024674
+P-Value: 3.5132144921778015e-125
